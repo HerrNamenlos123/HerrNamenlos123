@@ -3,7 +3,7 @@
 
 <h2 align="left">Hello, folks! 👋</h2>
 
-My name is Florian Zachs and I’m a hobbyist in robotics and software development. I live in Austria and I'm currently attending school.
+My name is Florian Zachs, I’m 19 years old and I'm a hobbyist in robotics and software development. I live in Austria and I'm currently attending school.
 
 <h2 align="left">About me</h2>
 
