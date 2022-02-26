@@ -18,7 +18,7 @@ My name is Florian Zachs and I’m a hobbyist in robotics and software developme
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/HerrNamenlos123" target="blank"><img align="left" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="HerrNamenlos123" height="30" width="35" /></a>
-<a href="https://instagram.com/zachsl_official" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zachsl_official" height="30" width="50" /></a>
+<a href="https://instagram.com/zachsl_official" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zachsl_official" height="30" width="30" /></a>
 <a href="https://discourse.odriverobotics.com/u/herrnamenlos123/summary" target="blank"><img align="middle" src="https://images.squarespace-cdn.com/content/v1/5bde62ac5cfd79d37aa2e8a6/1542001865134-AAYPP19VVMHCQ9WCA4AS/Odrive+logo+plus+text+black.png" alt="zachsl_official" height="40" /></a>
 </p>
 
