@@ -33,36 +33,7 @@ My name is Florian Zachs, I’m 19 years old and I'm a hobbyist in robotics and 
 </p>
 
 <h3 align="left">Most successful project:</h3>
-<a href="https://github.com/HerrNamenlos123/JTAG_Interface" class="github-corner" aria-label="View source on GitHub">
-</a>
 
 <a href="https://github.com/HerrNamenlos123/JTAG_Interface">
 <img src="assets/jtag_interface.svg" width="80%" alt="jtag_interface"/>
 </a>
-
-<a href="https://github.com/HerrNamenlos123/JTAG_Interface">
-<img src="assets/github-badge.svg" width="80%" alt="jtag_interface"/>
-</a>
-
-<!--<style>
-    #css{
-        color: rgba(0, 0, 0, 0.0);
-    }
-    .github-corner:hover 
-    .octo-arm {animation:octocat-wave 560ms ease-in-out }
-    @keyframes octocat-wave { 
-        0%,100% { transform:rotate(0) }
-        20%,60% { transform:rotate(-25deg) }
-        40%,80% { transform:rotate(10deg) }
-    }
-    @media (max-width:500px) {
-        .github-corner: hover 
-        .octo-arm { animation:none }
-        .github-corner 
-        .octo-arm { animation: octocat-wave 560ms ease-in-out }
-    }
-</style>-->
-
-<!--
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHerrNamenlos123%2FJTAG_Interface&count_bg=%232188FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors+today%2Ftotal%3A&edge_flat=false"/></a>
--->
