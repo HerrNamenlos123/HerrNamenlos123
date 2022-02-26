@@ -23,7 +23,7 @@ My name is Florian Zachs, I’m 19 years old and I'm a hobbyist in robotics and 
 <h3 align="left">My Skillset:</h3>
 <p align="left">
 
-<img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cplusplus" width="40" height="40"/>
+<a href="https://docs.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/de/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="c" width="40" height="40"/> </a>
