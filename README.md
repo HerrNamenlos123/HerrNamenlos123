@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="assets/Banner.svg" alt="herrnamenlos123 banner" /> </h1>
+<h1 align="center"> <img src="assets/banner.svg" alt="herrnamenlos123 banner" /> </h1>
 
 <h2 align="left">Hello, folks! 👋</h2>
 
