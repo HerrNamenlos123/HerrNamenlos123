@@ -61,4 +61,6 @@ My name is Florian Zachs, I’m 19 years old and I'm a hobbyist in robotics and 
 <img src="assets/jtag_interface.svgs" width="80%" alt="jtag_interface"/>
 </a>-->
 
+<!--
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHerrNamenlos123%2FJTAG_Interface&count_bg=%232188FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors+today%2Ftotal%3A&edge_flat=false"/></a>
+-->
