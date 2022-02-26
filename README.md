@@ -17,7 +17,7 @@ My name is Florian Zachs, I’m 19 years old and I'm a hobbyist in robotics and 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/zachsl_official" target="blank"><img align="left" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-6.svg" alt="zachsl_official" height="30" width="30" /></a>
-<a href="https://discourse.odriverobotics.com/u/herrnamenlos123/summary" target="blank"><img align="middle" src="assets/ODrive-logod.png" alt="herrnamenlos123" height="40" /></a>
+<a href="https://discourse.odriverobotics.com/u/herrnamenlos123/summary" target="blank"><img align="middle" src="assets/ODrive-logo.png" alt="herrnamenlos123" height="40" /></a>
 </p>
 
 <h3 align="left">My Skillset:</h3>
