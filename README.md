@@ -45,12 +45,12 @@ Exactly for this reason would it be even more amazing if you could find the moti
 <h3 align="left">Projects I am most proud of:</h3>
 
 <table border=0>
-<td>
+<td width="50%">
 <a href="https://github.com/HerrNamenlos123/JTAG_Interface">
-<img src="assets/jtag_interface_repo.svg" alt="jtag_interface_repo"/>
+<img src="assets/jtag_interface_repo.svg"  alt="jtag_interface_repo"/>
 </a>
 </td>
-<td>
+<td width="50%" >
 <a href="https://github.com/HerrNamenlos123/JTAG_Interface">
 <img src="assets/jtag_interface.svg" alt="jtag_interface_logo"/>
 </a>
