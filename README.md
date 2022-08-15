@@ -52,7 +52,7 @@ Exactly for this reason would it be even more amazing if you could find the moti
 </td>
 <td>
 <a href="https://github.com/HerrNamenlos123/JTAG_Interface">
-<img src="assets/jtag_interface_logo.svg" alt="jtag_interface_logo"/>
+<img src="assets/jtag_interface.svg" alt="jtag_interface_logo"/>
 </a>
 </td>
 </table>
