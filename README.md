@@ -42,7 +42,7 @@ Exactly for this reason would it be even more amazing if you could find the moti
 
 </p>
 
-<h3 align="left">Projects I am most proud of:</h3>
+<h2 align="left">Projects I am most proud of:</h2>
 
 <table border=0>
 <td width="50%">
