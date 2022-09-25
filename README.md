@@ -6,17 +6,9 @@ My name is Florian Zachs, I’m 19 years old and I'm a hobbyist in robotics and 
 
 <h2 align="left">About me</h2>
 
-- 💡 I’m interested in: **C++, Robots, Arduino, Embedded systems**
-
-- 👯 I’m looking to collaborate on: [The official ODrive project](https://odriverobotics.com)
+- 💡 I’m interested in: **C++, Robots, Arduino, Mobile Robotics**
 
 - 📫 How to reach me: **herrnamenlos123@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/zachsl_official" target="blank"><img align="left" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-6.svg" alt="zachsl_official" height="30" width="30" /></a>
-<a href="https://discourse.odriverobotics.com/u/herrnamenlos123/summary" target="blank"><img align="middle" src="assets/ODrive-logo.png" alt="herrnamenlos123" height="40" /></a>
-</p>
 
 <h3 align="left">My Skillset:</h3>
 <p align="left">
@@ -29,7 +21,55 @@ My name is Florian Zachs, I’m 19 years old and I'm a hobbyist in robotics and 
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
-## Supporting 💪
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/zachsl_official" target="blank"><img align="left" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-6.svg" alt="zachsl_official" height="30" width="30" /></a>
+<a href="https://discourse.odriverobotics.com/u/herrnamenlos123/summary" target="blank"><img align="middle" src="assets/ODrive-logo.png" alt="herrnamenlos123" height="40" /></a>
+</p>
+
+## My Robotics team
+
+<img src="assets/qbit_logo.svg"  alt="qbit_logo" align="right" width=40%/>
+
+Back in school we founded a robotics team of 6 students and we called ourselves 'qbit'. The goal was to take part at several mobile robotics competitions worldwide and we were very successful:
+
+ - First Place Seeding & Second Place Overall at GCER 2022 in Oklahoma/USA
+ - First Place Overall at ECER 2022 in Bratislava/Slovakia
+ - Second Place Overall at ECER 2019 in Vienna/Austria
+
+We all graduated and can no longer take part, but we would love to come back in the future and do scientific projects in the field of Mobile Robotics or Autonomous Drones.
+</p>
+
+<h2 align="left">Open-Source Projects:</h2>
+
+<table border=0>
+<tr>
+    <td width="50%">
+        <a href="https://github.com/HerrNamenlos123/JTAG_Interface">
+            <img src="assets/jtag_interface_repo.svg"  alt="jtag_interface_repo"/>
+        </a>
+    </td>
+    <td width="50%" >
+        <a href="https://github.com/HerrNamenlos123/JTAG_Interface">
+            <img src="assets/jtag_interface.svg" alt="jtag_interface_logo"/>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td width="50%">
+        <a href="https://github.com/HerrNamenlos123/tello">
+            <img src="https://gh-card.dev/repos/HerrNamenlos123/tello.svg">
+        </a>
+    </td>
+    <td width="50%" >
+        <a href="https://github.com/HerrNamenlos123/tello">
+            <img src="assets/tello.png" alt="tello drone" width=70%/>
+        </a>
+    </td>
+</tr>
+</table>
+
+## Support 💪
 
 I do all of my projects in my free time and I do not get any money for that. I just like what I do, do it for myself and want to share it so that others can benefit too.
 
@@ -39,20 +79,3 @@ I do all of my projects in my free time and I do not get any money for that. I j
 
 Exactly for this reason would it be even more amazing if you could find the motivation to buy me a coffee :)
 
-
-</p>
-
-<h2 align="left">Projects I am most proud of:</h2>
-
-<table border=0>
-<td width="50%">
-<a href="https://github.com/HerrNamenlos123/JTAG_Interface">
-<img src="assets/jtag_interface_repo.svg"  alt="jtag_interface_repo"/>
-</a>
-</td>
-<td width="50%" >
-<a href="https://github.com/HerrNamenlos123/JTAG_Interface">
-<img src="assets/jtag_interface.svg" alt="jtag_interface_logo"/>
-</a>
-</td>
-</table>
