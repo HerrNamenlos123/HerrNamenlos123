@@ -36,6 +36,7 @@ Back in school we founded a robotics team of 6 students and we called ourselves 
  - First Place Seeding & Second Place Overall at GCER 2022 in Oklahoma/USA
  - First Place Overall at ECER 2022 in Bratislava/Slovakia
  - Second Place Overall at ECER 2019 in Vienna/Austria
+<img src="assets/qbit.webp"  alt="qbit_logo" align="right" width=50%/>
 
 We all graduated and can no longer take part, but we would love to come back in the future and do scientific projects in the field of Mobile Robotics or Autonomous Drones.
 </p>
