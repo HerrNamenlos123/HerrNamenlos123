@@ -32,7 +32,7 @@ My name is Florian Zachs, I’m 19 years old and I'm a hobbyist in robotics and 
 ## My Robotics team
 
 
-Back in school we founded a robotics team of 6 students in our association [robo4you](robo4you.at) and we called ourselves [qbit](https://robo4you.at/teams/). The goal was to compete in several mobile robotics competitions worldwide and we were very successful:
+Back in school we founded a robotics team of 6 students in our association [robo4you](https://robo4you.at) and we called ourselves [qbit](https://robo4you.at/teams/). The goal was to compete in several mobile robotics competitions worldwide and we were very successful:
 
  - First Place Seeding & Second Place Overall at GCER 2022 in Oklahoma/USA
  - First Place Overall at ECER 2022 in Bratislava/Slovakia
