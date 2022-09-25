@@ -27,9 +27,9 @@ My name is Florian Zachs, I’m 19 years old and I'm a hobbyist in robotics and 
 <a href="https://discourse.odriverobotics.com/u/herrnamenlos123/summary" target="blank"><img align="middle" src="assets/ODrive-logo.png" alt="herrnamenlos123" height="40" /></a>
 </p>
 
-## My Robotics team
+<img src="assets/qbit_logo.svg"  alt="qbit_logo" align="right" width=30%/>
 
-<img src="assets/qbit_logo.svg"  alt="qbit_logo" align="right" width=40%/>
+## My Robotics team
 
 Back in school we founded a robotics team of 6 students and we called ourselves 'qbit'. The goal was to take part at several mobile robotics competitions worldwide and we were very successful:
 
