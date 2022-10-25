@@ -42,7 +42,19 @@ We all graduated and can no longer take part, but we would love to come back in 
 
 <img src="assets/qbit.webp"  alt="qbit_logo" width=50%/>
 
-<h2 align="left">Open-Source Projects:</h2>
+## Radboud University Nijmegen🎓
+
+<a href=https://www.ru.nl/en>
+    <img src="assets/Radboud-University-Nijmegen-logo.png" alt="Radboud University Nijmegen logo" align="right" width="40%">
+</a>
+
+My most successful project so far was the JTAG Interface (see below). It is an honor for me to say that even the [Radboud University Nijmegen](https://www.ru.nl/en) in the Netherlands found it interesting.  
+
+The Radboud University's Department of AI offers a course in [Neuromorphic Engineering](https://en.wikipedia.org/wiki/Neuromorphic_engineering) and as it turns out, students of the neuromorphic enginnering course now use my Arduino library to test FPGA implementations for the simulation of nervous systems.  
+
+Thank you for the collaboration!
+
+<h2 align="left">Featured Projects:</h2>
 
 <table border=0>
 <tr>
