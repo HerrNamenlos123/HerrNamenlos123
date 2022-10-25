@@ -52,7 +52,7 @@ My most successful project so far was the JTAG Interface (see below). It is an h
 
 The Radboud University's Department of AI offers a course in [Neuromorphic Engineering](https://en.wikipedia.org/wiki/Neuromorphic_engineering) and as it turns out, students of the neuromorphic enginnering course now use my Arduino library to test FPGA implementations for the simulation of nervous systems.  
 
-Thank you for the collaboration!
+It really is an honor for me, thank you for the collaboration!
 
 <h2 align="left">Featured Projects:</h2>
 
