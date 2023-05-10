@@ -2,7 +2,14 @@
 
 <h2 align="left">Hello, folks! 👋</h2>
 
-My name is Florian Zachs, I’m 20 years old and I'm a hobbyist in robotics and software development. I live in Austria and I just graduated. Let's see what the following years will bring :)
+My name is Florian Zachs. I am 20 and a hobbyist in robotics and software development. Greetings from Austria :)
+
+<h2 align="left">Curriculum Vitae / Lebenslauf</h2>
+
+English CV coming soon!
+
+<a href="https://github.com/HerrNamenlos123/HerrNamenlos123/blob/master/curriculum_vitae/curriculum_vitae_de.pdf"> <img src="assets/cv.svg" height="40"/> </a>
+<a href="https://github.com/HerrNamenlos123/HerrNamenlos123/blob/master/curriculum_vitae/curriculum_vitae_de.pdf"> <img src="assets/lebenslauf.svg" height="40"/> </a>
 
 <h2 align="left">About me</h2>
 
@@ -59,8 +66,20 @@ It really is an honor for me, thank you for the collaboration!
 <table border=0>
 <tr>
     <td width="50%">
+        <a href="https://github.com/batterycenter/battery">
+            <img src="assets/battery_card.png">
+        </a>
+    </td>
+    <td width="50%" >
+        <a href="https://github.com/batterycenter/battery">
+            <img src="assets/battery.png" alt="battery logo" width=30%/>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td width="50%">
         <a href="https://github.com/HerrNamenlos123/JTAG_Interface">
-            <img src="assets/jtag_interface_repo.svg"  alt="jtag_interface_repo"/>
+            <img src="assets/jtag_interface_card.png"  alt="jtag_interface_repo"/>
         </a>
     </td>
     <td width="50%" >
@@ -72,7 +91,7 @@ It really is an honor for me, thank you for the collaboration!
 <tr>
     <td width="50%">
         <a href="https://github.com/HerrNamenlos123/tello">
-            <img src="https://gh-card.dev/repos/HerrNamenlos123/tello.svg">
+            <img src="assets/tello_card.png">
         </a>
     </td>
     <td width="50%" >
