@@ -6,9 +6,7 @@ My name is Florian Zachs. I am 20 and a hobbyist in robotics and software develo
 
 <h2 align="left">Curriculum Vitae / Lebenslauf</h2>
 
-English CV coming soon!
-
-<a href="https://github.com/HerrNamenlos123/HerrNamenlos123/blob/master/curriculum_vitae/curriculum_vitae_de.pdf"> <img src="assets/cv.svg" height="40"/> </a>
+<a href="https://github.com/HerrNamenlos123/HerrNamenlos123/blob/master/curriculum_vitae/curriculum_vitae_en.pdf"> <img src="assets/cv.svg" height="40"/> </a>
 <a href="https://github.com/HerrNamenlos123/HerrNamenlos123/blob/master/curriculum_vitae/curriculum_vitae_de.pdf"> <img src="assets/lebenslauf.svg" height="40"/> </a>
 
 <h2 align="left">About me</h2>
