@@ -64,18 +64,6 @@ It really is an honor for me, thank you for the collaboration!
 <table border=0>
 <tr>
     <td width="50%">
-        <a href="https://github.com/batterycenter/battery">
-            <img src="assets/battery_card.png">
-        </a>
-    </td>
-    <td width="50%" >
-        <a href="https://github.com/batterycenter/battery">
-            <img src="assets/battery.png" alt="battery logo" width=30%/>
-        </a>
-    </td>
-</tr>
-<tr>
-    <td width="50%">
         <a href="https://github.com/HerrNamenlos123/JTAG_Interface">
             <img src="assets/jtag_interface_card.png"  alt="jtag_interface_repo"/>
         </a>
@@ -95,6 +83,30 @@ It really is an honor for me, thank you for the collaboration!
     <td width="50%" >
         <a href="https://github.com/HerrNamenlos123/tello">
             <img src="assets/tello.png" alt="tello drone" width=70%/>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td width="50%">
+        <a href="https://github.com/herrnamenlos123/cppgfx">
+            <img src="assets/cppgfx_card.png">
+        </a>
+    </td>
+    <td width="50%" >
+        <a href="https://github.com/herrnamenlos123/cppgfx">
+            <img src="assets/cpp_logo.png" alt="cppgfx logo" width=30%/>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td width="50%">
+        <a href="https://github.com/batterycenter/battery">
+            <img src="assets/battery_card.png">
+        </a>
+    </td>
+    <td width="50%" >
+        <a href="https://github.com/batterycenter/battery">
+            <img src="assets/battery.png" alt="battery logo" width=30%/>
         </a>
     </td>
 </tr>
