@@ -99,18 +99,6 @@ It is even on the footsteps of getting into the [Conan package manager for C++](
 </tr>
 <tr>
     <td width="50%">
-        <a href="https://github.com/herrnamenlos123/cppgfx">
-            <img src="assets/cppgfx_card.png">
-        </a>
-    </td>
-    <td width="50%" >
-        <a href="https://github.com/herrnamenlos123/cppgfx">
-            <img src="assets/cpp_logo.png" alt="cppgfx logo" width=30%/>
-        </a>
-    </td>
-</tr>
-<tr>
-    <td width="50%">
         <a href="https://github.com/batterycenter/battery">
             <img src="assets/battery_card.png">
         </a>
@@ -118,6 +106,18 @@ It is even on the footsteps of getting into the [Conan package manager for C++](
     <td width="50%" >
         <a href="https://github.com/batterycenter/battery">
             <img src="assets/battery.png" alt="battery logo" width=30%/>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td width="50%">
+        <a href="https://github.com/herrnamenlos123/cppgfx">
+            <img src="assets/cppgfx_card.png">
+        </a>
+    </td>
+    <td width="50%" >
+        <a href="https://github.com/herrnamenlos123/cppgfx">
+            <img src="assets/cpp_logo.png" alt="cppgfx logo" width=30%/>
         </a>
     </td>
 </tr>
