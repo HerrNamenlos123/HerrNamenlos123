@@ -53,11 +53,20 @@ We all graduated and can no longer take part, but we would love to come back in 
     <img src="assets/Radboud-University-Nijmegen-logo.png" alt="Radboud University Nijmegen logo" align="right" width="40%">
 </a>
 
-My most successful project so far was the JTAG Interface (see below). It is an honor for me to say that even the [Radboud University Nijmegen](https://www.ru.nl/en) in the Netherlands found it interesting.  
+One of my first successful projects was the JTAG Interface (see below). It is an honor for me to say that even the [Radboud University Nijmegen](https://www.ru.nl/en) in the Netherlands found it interesting.  
 
 The Radboud University's Department of AI offers a course in [Neuromorphic Engineering](https://en.wikipedia.org/wiki/Neuromorphic_engineering) and as it turns out, students of the neuromorphic enginnering course now use my Arduino library to test FPGA implementations for the simulation of nervous systems.  
 
 It really is an honor for me, thank you for the collaboration!
+
+<h2 align="left">Battery-Embed:</h2>
+
+My most successful project so far is [Battery-Embed](https://github.com/batterycenter/embed):  
+<a href="https://github.com/batterycenter/embed">
+    <img width="50%" src="assets/battery_embed_card.png"  alt="battery_embed_card"/>
+</a>
+
+It is even on the footsteps of getting into the [Conan package manager for C++](https://conan.io/)!
 
 <h2 align="left">Featured Projects:</h2>
 
