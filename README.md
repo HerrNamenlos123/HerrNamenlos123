@@ -59,6 +59,8 @@ The Radboud University's Department of AI offers a course in [Neuromorphic Engin
 
 It really is an honor for me, thank you for the collaboration!
 
+<!-- https://ghlinkcard.com/ -->
+
 <h2 align="left">Battery-Embed:</h2>
 
 My most successful project so far is [Battery-Embed](https://github.com/batterycenter/embed):  
