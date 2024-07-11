@@ -2,7 +2,7 @@
 
 <h2 align="left">Hello, folks! 👋</h2>
 
-My name is Florian Zachs. I am 20 and a hobbyist in robotics and software development. Greetings from Austria :)
+My name is Florian Zachs. I a hobbyist in robotics and software development. Greetings from Austria :)
 
 <h2 align="left">Curriculum Vitae / Lebenslauf</h2>
 
