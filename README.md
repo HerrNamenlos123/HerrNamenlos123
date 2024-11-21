@@ -2,7 +2,7 @@
 
 <h2 align="left">Hello, folks! 👋</h2>
 
-My name is Florian Zachs, I am a hobbyist in robotics and software development and I like tinkering with all kinds of things :)
+My name is Florian, I am a hobbyist in robotics and software development and I like tinkering with all kinds of things :)
 
 <h2 align="left">Curriculum Vitae / Lebenslauf</h2>
 
